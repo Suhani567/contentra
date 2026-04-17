@@ -3,10 +3,6 @@
 ## Overview
 A lightweight, MVC-based Content Management System (CMS) built with Node.js. Features an admin panel for managing pages, blog posts, users, templates, files, comments, and zones. Designed for simplicity and extensibility.
 
-**Version:** 2.0.0  
-**Author:** David Pirek (http://www.davidpirek.com)  
-**Repository:** https://github.com/dpirek/nodejs-mvc-cms.git
-
 ## Features
 - **Admin Panel**: Full-featured dashboard at `/admin` for CRUD operations on:
   - Pages
@@ -47,8 +43,8 @@ A lightweight, MVC-based Content Management System (CMS) built with Node.js. Fea
 ### Installation
 1. Clone the repo:
    ```
-   git clone https://github.com/dpirek/nodejs-mvc-cms.git
-   cd nodejs-mvc-cms
+   git clone https://github.com/Suhani456/contentra.git
+   cd contentra
    ```
 
 2. Install dependencies:
