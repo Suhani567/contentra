@@ -114,7 +114,3 @@ A lightweight, MVC-based Content Management System (CMS) built with Node.js. Fea
 
 ## License
 Open source (see repository for details).
-
-## Issues/Suggestions
-File issues on GitHub: https://github.com/dpirek/nodejs-mvc-cms/issues
-
