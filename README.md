@@ -111,6 +111,3 @@ A lightweight, MVC-based Content Management System (CMS) built with Node.js. Fea
 - Edit controllers/views in `app/admin/controllers/` and `app/admin/views/`.
 - Custom templates in admin Templates section.
 - Extend routes in `app/lib/routes.js` and `app/lib/json.routes.js`.
-
-## License
-Open source (see repository for details).
